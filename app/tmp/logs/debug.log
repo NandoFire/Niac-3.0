@@ -1,0 +1,743 @@
+2014-12-15 19:58:40 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 50]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 50
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-12-15 19:58:40 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 51]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-12-15 19:58:51 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 50]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 50
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-12-15 19:58:51 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 51]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-12-15 19:58:54 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 50]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 50
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-12-15 19:58:54 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 51]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-12-15 19:59:03 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 50]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 50
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-12-15 19:59:03 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 51]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 10:41:58 Notice: Notice (8): Undefined index: comoSoubeNiac in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 41]
+Trace:
+include - APP/View/Casos/view.ctp, line 41
+View::_evaluate() - /var/www/niac/lib/Cake/View/View.php, line 948
+View::_render() - /var/www/niac/lib/Cake/View/View.php, line 910
+View::render() - /var/www/niac/lib/Cake/View/View.php, line 471
+Controller::render() - /var/www/niac/lib/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - /var/www/niac/lib/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - /var/www/niac/lib/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 10:42:25 Notice: Notice (8): Undefined index: comoSoubeNiac in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 41]
+Trace:
+include - APP/View/Casos/view.ctp, line 41
+View::_evaluate() - /var/www/niac/lib/Cake/View/View.php, line 948
+View::_render() - /var/www/niac/lib/Cake/View/View.php, line 910
+View::render() - /var/www/niac/lib/Cake/View/View.php, line 471
+Controller::render() - /var/www/niac/lib/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - /var/www/niac/lib/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - /var/www/niac/lib/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 10:55:40 Notice: Notice (8): Undefined index: comoSoubeNiac in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 41]
+Trace:
+include - APP/View/Casos/view.ctp, line 41
+View::_evaluate() - /var/www/niac/lib/Cake/View/View.php, line 948
+View::_render() - /var/www/niac/lib/Cake/View/View.php, line 910
+View::render() - /var/www/niac/lib/Cake/View/View.php, line 471
+Controller::render() - /var/www/niac/lib/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - /var/www/niac/lib/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - /var/www/niac/lib/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 11:15:18 Notice: Notice (8): Undefined index: comoSoubeNiac in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 41]
+Trace:
+include - APP/View/Casos/view.ctp, line 41
+View::_evaluate() - /var/www/niac/lib/Cake/View/View.php, line 948
+View::_render() - /var/www/niac/lib/Cake/View/View.php, line 910
+View::render() - /var/www/niac/lib/Cake/View/View.php, line 471
+Controller::render() - /var/www/niac/lib/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - /var/www/niac/lib/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - /var/www/niac/lib/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 11:17:36 Notice: Notice (8): Undefined index: comoSoubeNiac in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 41]
+Trace:
+include - APP/View/Casos/view.ctp, line 41
+View::_evaluate() - /var/www/niac/lib/Cake/View/View.php, line 948
+View::_render() - /var/www/niac/lib/Cake/View/View.php, line 910
+View::render() - /var/www/niac/lib/Cake/View/View.php, line 471
+Controller::render() - /var/www/niac/lib/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - /var/www/niac/lib/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - /var/www/niac/lib/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 11:24:38 Notice: Notice (8): Undefined index: comoSoubeNiac in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 41]
+Trace:
+include - APP/View/Casos/view.ctp, line 41
+View::_evaluate() - /var/www/niac/lib/Cake/View/View.php, line 948
+View::_render() - /var/www/niac/lib/Cake/View/View.php, line 910
+View::render() - /var/www/niac/lib/Cake/View/View.php, line 471
+Controller::render() - /var/www/niac/lib/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - /var/www/niac/lib/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - /var/www/niac/lib/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 11:24:46 Notice: Notice (8): Undefined index: comoSoubeNiac in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 41]
+Trace:
+include - APP/View/Casos/view.ctp, line 41
+View::_evaluate() - /var/www/niac/lib/Cake/View/View.php, line 948
+View::_render() - /var/www/niac/lib/Cake/View/View.php, line 910
+View::render() - /var/www/niac/lib/Cake/View/View.php, line 471
+Controller::render() - /var/www/niac/lib/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - /var/www/niac/lib/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - /var/www/niac/lib/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:10:57 Notice: Notice (8): Undefined index: nome in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 21]
+Trace:
+include - APP/View/Casos/view.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:10:57 Notice: Notice (8): Undefined index: endereco in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 26]
+Trace:
+include - APP/View/Casos/view.ctp, line 26
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:10:57 Notice: Notice (8): Undefined index: contato1 in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 31]
+Trace:
+include - APP/View/Casos/view.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:10:57 Notice: Notice (8): Undefined index: contato2 in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 36]
+Trace:
+include - APP/View/Casos/view.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:11:16 Notice: Notice (8): Undefined index: nome in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 21]
+Trace:
+include - APP/View/Casos/view.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:11:16 Notice: Notice (8): Undefined index: endereco in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 26]
+Trace:
+include - APP/View/Casos/view.ctp, line 26
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:11:16 Notice: Notice (8): Undefined index: contato1 in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 31]
+Trace:
+include - APP/View/Casos/view.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:11:16 Notice: Notice (8): Undefined index: contato2 in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 36]
+Trace:
+include - APP/View/Casos/view.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:14:17 Notice: Notice (8): Undefined index: nome in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 21]
+Trace:
+include - APP/View/Casos/view.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:14:17 Notice: Notice (8): Undefined index: endereco in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 26]
+Trace:
+include - APP/View/Casos/view.ctp, line 26
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:14:17 Notice: Notice (8): Undefined index: contato1 in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 31]
+Trace:
+include - APP/View/Casos/view.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:14:17 Notice: Notice (8): Undefined index: contato2 in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 36]
+Trace:
+include - APP/View/Casos/view.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:20:00 Notice: Notice (8): Undefined index: nome in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 21]
+Trace:
+include - APP/View/Casos/view.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:20:00 Notice: Notice (8): Undefined index: endereco in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 26]
+Trace:
+include - APP/View/Casos/view.ctp, line 26
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:20:00 Notice: Notice (8): Undefined index: contato1 in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 31]
+Trace:
+include - APP/View/Casos/view.ctp, line 31
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-28 12:20:00 Notice: Notice (8): Undefined index: contato2 in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 36]
+Trace:
+include - APP/View/Casos/view.ctp, line 36
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 07:08:40 Notice: Notice (8): Undefined index: estadoCivil in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 116]
+Trace:
+include - APP/View/Casos/view.ctp, line 116
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 07:08:53 Notice: Notice (8): Undefined index: estadoCivil in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 116]
+Trace:
+include - APP/View/Casos/view.ctp, line 116
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 07:09:11 Notice: Notice (8): Undefined index: estadoCivil in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 116]
+Trace:
+include - APP/View/Casos/view.ctp, line 116
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 07:09:44 Notice: Notice (8): Undefined index: estadoCivil in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 116]
+Trace:
+include - APP/View/Casos/view.ctp, line 116
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 07:10:07 Notice: Notice (8): Undefined index: estadoCivil in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 116]
+Trace:
+include - APP/View/Casos/view.ctp, line 116
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 07:10:44 Notice: Notice (8): Undefined index: estadoCivil in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 116]
+Trace:
+include - APP/View/Casos/view.ctp, line 116
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 07:11:44 Notice: Notice (8): Undefined index: estadoCivil in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 116]
+Trace:
+include - APP/View/Casos/view.ctp, line 116
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 07:12:10 Notice: Notice (8): Undefined index: estadoCivil in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 116]
+Trace:
+include - APP/View/Casos/view.ctp, line 116
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 07:15:49 Notice: Notice (8): Undefined index: estadoCivil in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 116]
+Trace:
+include - APP/View/Casos/view.ctp, line 116
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 07:17:50 Notice: Notice (8): Undefined index: estadoCivil in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 116]
+Trace:
+include - APP/View/Casos/view.ctp, line 116
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 17:20:54 Notice: Notice (8): Undefined variable: message in [/var/www/novosoltec/niac/app/View/Pages/index.ctp, line 17]
+Trace:
+include - APP/View/Pages/index.ctp, line 17
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 18:24:39 Notice: Notice (8): Use of undefined constant ããããa - assumed 'ããããa' in [/var/www/novosoltec/niac/app/View/Pages/index.ctp, line 24]
+Trace:
+include - APP/View/Pages/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 18:24:56 Notice: Notice (8): Use of undefined constant ããããa - assumed 'ããããa' in [/var/www/novosoltec/niac/app/View/Pages/index.ctp, line 24]
+Trace:
+include - APP/View/Pages/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 18:25:19 Notice: Notice (8): Use of undefined constant ããããa - assumed 'ããããa' in [/var/www/novosoltec/niac/app/View/Pages/index.ctp, line 24]
+Trace:
+include - APP/View/Pages/index.ctp, line 24
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 18:30:14 Notice: Notice (8): Use of undefined constant ããããa - assumed 'ããããa' in [/var/www/novosoltec/niac/app/View/Pages/index.ctp, line 21]
+Trace:
+include - APP/View/Pages/index.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 18:31:14 Notice: Notice (8): Use of undefined constant ããããa - assumed 'ããããa' in [/var/www/novosoltec/niac/app/View/Pages/index.ctp, line 21]
+Trace:
+include - APP/View/Pages/index.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 18:33:57 Notice: Notice (8): Use of undefined constant ããããa - assumed 'ããããa' in [/var/www/novosoltec/niac/app/View/Pages/index.ctp, line 21]
+Trace:
+include - APP/View/Pages/index.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-04-29 18:34:31 Notice: Notice (8): Use of undefined constant ããããa - assumed 'ããããa' in [/var/www/novosoltec/niac/app/View/Pages/index.ctp, line 21]
+Trace:
+include - APP/View/Pages/index.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-03 20:43:08 Notice: Notice (8): Undefined variable: configuracaoSociofamiliar in [/var/www/novosoltec/niac/app/View/Casos/add.ctp, line 3]
+Trace:
+include - APP/View/Casos/add.ctp, line 3
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-03 20:45:09 Notice: Notice (8): Undefined variable: configuracaoSociofamiliar in [/var/www/novosoltec/niac/app/View/Casos/add.ctp, line 3]
+Trace:
+include - APP/View/Casos/add.ctp, line 3
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-04 11:44:05 Notice: Notice (8): Undefined variable: configuracaoSociofamiliar in [/var/www/novosoltec/niac/app/View/Casos/add.ctp, line 3]
+Trace:
+include - APP/View/Casos/add.ctp, line 3
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-16 16:48:04 Notice: Notice (8): Undefined index: dataDeNascimentoEntrevistado in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 126]
+Trace:
+include - APP/View/Casos/view.ctp, line 126
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-16 16:48:04 Notice: Notice (8): Undefined index: naturalidadeEntrevistado in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 131]
+Trace:
+include - APP/View/Casos/view.ctp, line 131
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-16 16:48:04 Notice: Notice (8): Undefined index: estadoCivilEntrevistado in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 136]
+Trace:
+include - APP/View/Casos/view.ctp, line 136
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-16 16:48:58 Notice: Notice (8): Undefined index: dataDeNascimentoEntrevistado in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 126]
+Trace:
+include - APP/View/Casos/view.ctp, line 126
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-16 16:48:58 Notice: Notice (8): Undefined index: naturalidadeEntrevistado in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 131]
+Trace:
+include - APP/View/Casos/view.ctp, line 131
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-16 16:48:58 Notice: Notice (8): Undefined index: estadoCivilEntrevistado in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 136]
+Trace:
+include - APP/View/Casos/view.ctp, line 136
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-16 16:56:07 Notice: Notice (8): Undefined index: dataDeNascimentoEntrevistado in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 126]
+Trace:
+include - APP/View/Casos/view.ctp, line 126
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-16 16:56:07 Notice: Notice (8): Undefined index: naturalidadeEntrevistado in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 131]
+Trace:
+include - APP/View/Casos/view.ctp, line 131
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-16 16:56:07 Notice: Notice (8): Undefined index: estadoCivilEntrevistado in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 136]
+Trace:
+include - APP/View/Casos/view.ctp, line 136
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-19 14:10:44 Notice: Notice (8): Undefined index: horariosSegunda in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 91]
+Trace:
+include - APP/View/Casos/view.ctp, line 91
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-19 14:10:44 Notice: Notice (8): Undefined index: horariosTerca in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 96]
+Trace:
+include - APP/View/Casos/view.ctp, line 96
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-19 14:10:44 Notice: Notice (8): Undefined index: horariosQuarta in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 101]
+Trace:
+include - APP/View/Casos/view.ctp, line 101
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-19 14:10:44 Notice: Notice (8): Undefined index: horariosQuinta in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 106]
+Trace:
+include - APP/View/Casos/view.ctp, line 106
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-19 14:10:44 Notice: Notice (8): Undefined index: horariosSexta in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 111]
+Trace:
+include - APP/View/Casos/view.ctp, line 111
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-19 14:10:44 Notice: Notice (8): Undefined index: dataDeNascimentoEntrevistado in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 126]
+Trace:
+include - APP/View/Casos/view.ctp, line 126
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-19 14:10:44 Notice: Notice (8): Undefined index: naturalidadeEntrevistado in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 131]
+Trace:
+include - APP/View/Casos/view.ctp, line 131
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2015-05-19 14:10:44 Notice: Notice (8): Undefined index: estadoCivilEntrevistado in [/var/www/novosoltec/niac/app/View/Casos/view.ctp, line 136]
+Trace:
+include - APP/View/Casos/view.ctp, line 136
+View::_evaluate() - CORE/Cake/View/View.php, line 948
+View::_render() - CORE/Cake/View/View.php, line 910
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 954
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 198
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
