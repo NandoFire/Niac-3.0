@@ -28,6 +28,11 @@
 	    '/',
 	    array('controller' => 'pages', 'action' => 'index')
 	);
+
+/**
+*Criando nova pagina de casos arquivados
+*/
+Router::connect('/arquivado', array('controller' => 'pages', 'action' => 'index'));
 /**
  * ...and connect the rest of 'Pages' controller's URLs.
  */
@@ -36,6 +41,8 @@
 	    array('controller' => 'pages', 'action' => 'display')
 	);
 
+//Rota para o download de CSV
+	Router::parseExtensions('csv');
 /**
  * Load DOMPDF to create PDFs.
  */

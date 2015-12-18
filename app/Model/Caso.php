@@ -4,6 +4,8 @@ App::uses('AppModel', 'Model');
  * Caso Model
  *
  */
+//App::uses('DboSource', 'Model/DataSource');
+
 class Caso extends AppModel {
 
 /**
@@ -97,5 +99,7 @@ class Caso extends AppModel {
  
         return true;
     }
+
+
 }
 }

@@ -4,6 +4,8 @@ App::uses('AppModel', 'Model');
  * Caso Model
  *
  */
+App::uses('DboSource', 'Model/DataSource');
+
 class Caso extends AppModel {
 
 /**
@@ -13,6 +15,45 @@ class Caso extends AppModel {
  */
 	public $primaryKey = 'id';
 
+//Mudanças feitas para testar implementação de validacoes de nome, cpf, rg e etc.
+    public $validate = array(
+		'nome' => array(
+			'notEmpty' => array(
+				'rule' => array('notEmpty'),
+				'message' => 'Digite o nome.',
+				//'allowEmpty' => false,
+				//'required' => false,
+				//'last' => false, // Stop validation after this rule
+				//'on' => 'create', // Limit validation to 'create' or 'update' operations
+			),
+		),
+		'dataNascimento' => array(
+			'date' => array(
+				'rule' => array('date'),
+				//'message' => 'Your custom message here',
+				//'allowEmpty' => false,
+				//'required' => false,
+				//'last' => false, // Stop validation after this rule
+				//'on' => 'create', // Limit validation to 'create' or 'update' operations
+			),
+		),
+		'cpf' => array(
+		    'rule' => array('validaCPF'),
+		    'message' => 'O CPF deve ser válido, ou então em branco.',
+		    'allowEmpty' => true,
+		    'required' => false,
+		    'on' => 'null'
+		),
+		'rg' => array(
+			'rule' => array('minLength', 9, 'maxLength', 9),
+			'message' => 'O RG deve ter 9 números.',
+			'allowEmpty' => true,
+			'required' => false,
+			//'last' => false, // Stop validation after this rule
+			'on' => 'null'
+		),
+   );
+//validador de cpf
 	function validaCPF($cpf = null) {
  
     // Verifica se um número foi informado
@@ -58,5 +99,7 @@ class Caso extends AppModel {
  
         return true;
     }
+
+
 }
 }

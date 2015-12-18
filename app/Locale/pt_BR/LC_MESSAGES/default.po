@@ -33,3 +33,22 @@ msgstr "Novembro"
  
 msgid  "December"
 msgstr "Dezembro"
+
+msgid  "days"
+msgstr "dias"
+
+msgid  "hours"
+msgstr "horas"
+
+msgid  "months"
+msgstr "meses"
+
+msgid  "years"
+msgstr "anos"
+
+msgid  "ago"
+msgstr "atrás"
+
+
+
+

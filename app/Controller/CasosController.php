@@ -98,4 +98,17 @@ class CasosController extends AppController {
 		ini_set('memory_limit', '512M');
 		$this->set('caso', $this->Caso->read(null, $id));
 	}
+	//Feito para exportarmos os dados dos casos para CSV, podendo ser aberto no Excel
+    public function export() {
+
+	$this->response->download("export.csv");
+
+	$data = $this->Caso->find('all');
+	$this->set(compact('data'));
+
+	$this->layout = 'ajax';
+
+	return;
+
+	}
 }

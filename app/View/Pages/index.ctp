@@ -7,7 +7,10 @@
 	array('controller' => 'casos', 'action' => 'index')
 ); ?>
 <br>
-<h1> Casos Arquivados </h1>
+<?php echo $this->Html->link(
+	'Casos Arquivados',
+	array('controller' => 'arquivados', 'action' => 'index')
+); ?>
 <br>
 <?php echo $this->Html->link(
 	'Equipe',
